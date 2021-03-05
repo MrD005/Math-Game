@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: c0d998a27b4881a4b9e1d449635379f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Game: {fileID: 8478348776330847801, guid: 7ba1507d6318c824c92fc3ae6b979366, type: 3}
+  - complete: {instanceID: 0}
+  - musicBackground: {instanceID: 0}
+  - goodAnswerSound: {instanceID: 0}
+  - falsedAnswerSound: {instanceID: 0}
+  - LeftStar: {instanceID: 0}
+  - MidStar: {instanceID: 0}
+  - RightStar: {instanceID: 0}
+  - BACKGROUND_BACK: {instanceID: 0}
+  - point: {instanceID: 0}
+  - QUESTIONS_GO: {instanceID: 0}
+  - BUTTONS_GO: {instanceID: 0}
+  - theLastScore: {instanceID: 0}
+  - POINTS: {instanceID: 0}
+  - pointsText: {instanceID: 0}
+  - questionNumber1: {instanceID: 0}
+  - questionOperator: {instanceID: 0}
+  - questionNumber2: {instanceID: 0}
+  - questionResult: {instanceID: 0}
+  - slider: {instanceID: 0}
+  - slid: {instanceID: 0}
+  - levelText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
